@@ -1,0 +1,9 @@
+var firstName;
+var lastName;
+var age;
+firstName = Samel;
+lastName = Perez-Lopez;
+age = 19;
+alert("My name is Samel Perez-Lopez.");
+alert("I am 19 years old.");
+// I am having a lof of fun in the class, although I still doubt myself sometimes.  Doing these exercises remind me of being in Middle School again and I had some great memories.
